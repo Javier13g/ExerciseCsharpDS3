@@ -9,21 +9,8 @@ namespace Ejercicio6
     {
         static void Main(string[] args)
         {
-            /*SqlConnection SqlCon;
-
-            
-            string stringSQL = @"Data Source =.;Initial Catalog=Desarrollo3;Integrated Security=True";*/
-
             try
             {
-                //SqlCon = new SqlConnection(stringSQL);
-
-                /*var dataIncidente = new Incidentes();
-                Incidentes incidentes = dataIncidente;
-
-                var dataAccion = new Acciones();
-                Acciones acciones = dataAccion;*/
-
                 int opcion = 0;
                 do
                 {
