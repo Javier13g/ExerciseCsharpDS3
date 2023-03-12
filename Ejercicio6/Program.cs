@@ -29,6 +29,11 @@ namespace Ejercicio6
                         insertarIncidente insertar = new insertarIncidente();
                         insertar.insertarIncidentes();
                             break;
+                        
+                        case 2:
+                        insertarAcciones insertar2 = new insertarAcciones();
+                        insertar2.insertarAccion();
+                        break;
                         default:
                             break;
                     }
