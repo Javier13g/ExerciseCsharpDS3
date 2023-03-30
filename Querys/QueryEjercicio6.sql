@@ -30,6 +30,25 @@ CREATE TABLE tblAcciones
   Apellidos VARCHAR(30) NOT NULL,
   EstadoAccion BIT NOT NULL
 )
+GO
+
+CREATE PROCEDURE insertAcciones
+@CodigoIncidente INT,
+@Descripcion VARCHAR(100),
+@TipoAccion INT,
+@FechaIngreso DATETIME,
+@Nombres VARCHAR(30),
+@Apellidos VARCHAR(30),
+@EstadoAccion BIT
+AS
+BEGIN
+IF(@CodigoIncidente = (SELECT TOP 1 Id FROM tblIncidentes WHERE Id = @CodigoIncidente))
+BEGIN
+  INSERT INTO tblAcciones(CodigoIncidente, Descripcion, TipoAccion, FechaIngreso, Nombres, Apellidos, EstadoAccion)
+  VALUES(@CodigoIncidente, @Descripcion, @TipoAccion, @FechaIngreso, @Nombres, @Apellidos, @EstadoAccion)
+END
+END
+GO
 
 CREATE PROCEDURE insertIncidentes
   @Descripcion VARCHAR(100),
@@ -44,6 +63,17 @@ CREATE PROCEDURE insertIncidentes
 
 AS
 BEGIN
-  INSERT INTO tblFeligreses(Nombre, Apellido, TipoDocumento, Documento, FechaNacimiento,
-  FechaIngreso, Sexo, Bautizado, EstadoCivil, Confirmacion)
+  INSERT INTO tblIncidentes(Descripcion, Localidad, Sector, Ciudad, Direccion,
+  Telefono, TipoIncidente, EstadoIncidente, FechaIngreso)
+  VALUES(@Descripcion,
+  @Localidad,
+  @Sector,
+  @Ciudad,
+  @Direccion,
+  @Telefono,
+  @TipoIncidente,
+  @EstadoIncidente,
+  @FechaIngreso)
 END
+
+SELECT * FROM tblIncidentes
