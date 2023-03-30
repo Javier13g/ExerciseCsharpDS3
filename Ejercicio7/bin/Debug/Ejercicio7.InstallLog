@@ -1,0 +1,186 @@
+﻿Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Rolling back assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Rolling back assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Rolling back assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Installing service ServiceEjercicio7...
+Creating EventLog source ServiceEjercicio7 in log Application...
+Rolling back assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Restoring event log to previous state for source ServiceEjercicio7.
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Rolling back assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Installing service ServiceEjercicio7...
+Creating EventLog source ServiceEjercicio7 in log Application...
+Rolling back assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Restoring event log to previous state for source ServiceEjercicio7.
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Installing service ServiceEjercicio7...
+Service ServiceEjercicio7 has been successfully installed.
+Creating EventLog source ServiceEjercicio7 in log Application...
+Committing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   1 = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   w = 
+Installing service ServiceEjercicio7...
+Creating EventLog source ServiceEjercicio7 in log Application...
+Rolling back assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   w = 
+Restoring event log to previous state for source ServiceEjercicio7.
+Uninstalling assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+Removing EventLog source ServiceEjercicio7.
+Service ServiceEjercicio7 is being removed from the system...
+Service ServiceEjercicio7 was successfully removed from the system.
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Installing service ServiceEjercicio7...
+Service ServiceEjercicio7 has been successfully installed.
+Creating EventLog source ServiceEjercicio7 in log Application...
+Committing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+Removing EventLog source ServiceEjercicio7.
+Service ServiceEjercicio7 is being removed from the system...
+Service ServiceEjercicio7 was successfully removed from the system.
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Installing service ServiceEjercicio7...
+Service ServiceEjercicio7 has been successfully installed.
+Creating EventLog source ServiceEjercicio7 in log Application...
+Committing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+Removing EventLog source ServiceEjercicio7.
+Service ServiceEjercicio7 is being removed from the system...
+Service ServiceEjercicio7 was successfully removed from the system.
+Installing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 
+Installing service ServiceEjercicio7...
+Service ServiceEjercicio7 has been successfully installed.
+Creating EventLog source ServiceEjercicio7 in log Application...
+Committing assembly 'D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.InstallLog
+   assemblypath = D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+   logtoconsole = 

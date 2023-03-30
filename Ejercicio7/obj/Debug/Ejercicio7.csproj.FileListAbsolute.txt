@@ -1,0 +1,10 @@
+D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.exe
+D:\ExerciseCsharpDS3\Ejercicio7\bin\Debug\Ejercicio7.pdb
+D:\ExerciseCsharpDS3\Ejercicio7\obj\Debug\Ejercicio7.csproj.AssemblyReference.cache
+D:\ExerciseCsharpDS3\Ejercicio7\obj\Debug\Ejercicio7.csproj.SuggestedBindingRedirects.cache
+D:\ExerciseCsharpDS3\Ejercicio7\obj\Debug\Ejercicio7.ProjectInstaller.resources
+D:\ExerciseCsharpDS3\Ejercicio7\obj\Debug\Ejercicio7.csproj.GenerateResource.cache
+D:\ExerciseCsharpDS3\Ejercicio7\obj\Debug\Ejercicio7.csproj.CoreCompileInputs.cache
+D:\ExerciseCsharpDS3\Ejercicio7\obj\Debug\Ejercicio7.exe
+D:\ExerciseCsharpDS3\Ejercicio7\obj\Debug\Ejercicio7.pdb
