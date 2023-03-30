@@ -1,0 +1,5 @@
+D:\ExerciseCsharpDS3\Ejercicio8\consumoWebService\obj\Debug\net6.0\consumoWebService.csproj.AssemblyReference.cache
+D:\ExerciseCsharpDS3\Ejercicio8\consumoWebService\obj\Debug\net6.0\consumoWebService.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciseCsharpDS3\Ejercicio8\consumoWebService\obj\Debug\net6.0\consumoWebService.AssemblyInfoInputs.cache
+D:\ExerciseCsharpDS3\Ejercicio8\consumoWebService\obj\Debug\net6.0\consumoWebService.AssemblyInfo.cs
+D:\ExerciseCsharpDS3\Ejercicio8\consumoWebService\obj\Debug\net6.0\consumoWebService.csproj.CoreCompileInputs.cache
